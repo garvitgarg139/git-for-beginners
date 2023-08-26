@@ -1,4 +1,6 @@
 Welcome to my Gitproject!
 
 
-Author : Garvit
+Author : Garvit1S
+
+Twitter: @garvit
